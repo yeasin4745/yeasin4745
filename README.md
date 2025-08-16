@@ -17,32 +17,33 @@
 - 🧗 I believe in **continuous growth** and embracing challenges.
 - 🚀 One step at a time, I’m getting closer to becoming a **full stack developer**.
 
----
 
-## ⚙️ Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,tailwind,github,mongodb,tensorflow" />
+
+## ⚙️ Languages & Tools  
+
+<p align="center">
+  <!-- skillicons -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,github,mongodb,tensorflow,python,firebase,npm&theme=dark" />
+
+  <!-- cool animation line -->
+  <br/><br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=💻+Frontend+:+HTML%2C+CSS%2C+JS%2C+React%2C+Tailwind;⚡+Backend+:+Node.js%2C+Express%2C+MongoDB%2C+Firebase;🤖+AI%2FML+:+TensorFlow%2C+Python;📦+Other+Tools+:+GitHub%2C+NPM" />
 </p>
 
----
 
-## 🔗 Connect With Me
-<p align="left" >
+## 🔗 Connect With Me  
+
+<p align="center">
   <a href="https://www.linkedin.com/in/yeasin4745/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/profile/yeasin4745" target="_blank">
-    <img src="https://assets.streamlinehq.com/icons/logos/hackerrank-mutrwk4m3hempgyalginq.png"height="30" width="30"/>
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/yeasinali4745/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="30" width="30"/>
-  </a>
-  <a href="mailto:yeasinali4745@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="30"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
-
----
 
 <p align="center">
   <em>“Learning is part of my life. Coding is how I express myself.” — Yeasin</em>
