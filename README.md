@@ -1,14 +1,13 @@
 
-<p aling="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=06F7C2&background=00000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Yeasin;Aspiring+Full+Stack+Developer;Passionate+about+Problem+Solving;Exploring+Machine+Learning;Learning+Something+New+Everyday" alt="Typing SVG" />
-</p>
 <h1 align="center">👨‍💻 Welcome to my GitHub!</h1>
 
 <p align="center">
   I'm <strong>Yeasin</strong> — a passionate learner, future developer, and tech enthusiast.
 </p>
 
----
+<p aling="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=06F7C2&background=00000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Yeasin;Aspiring+Full+Stack+Developer;Passionate+about+Problem+Solving;Exploring+Machine+Learning;Learning+Something+New+Everyday" alt="Typing SVG" />
+</p>
 
 ## 🧠 About Me
 - 🎓 I’m a **student**, learning tech step by step.
@@ -63,6 +62,12 @@
   <a href="https://leetcode.com/u/yeasinali4745/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+  <a href="https://twitter.com/yeasin4745" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+  <a href="https://facebook.com/yeasin4745" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
 </p>
 
 <p align="center">
