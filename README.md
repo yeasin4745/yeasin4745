@@ -31,6 +31,26 @@
 </p>
 
 
+## 📊 GitHub Stats  
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=yeasin4745&show_icons=true&theme=radical)  
+
+---
+
+## 🔥 Streak Stats  
+![GitHub Streak](https://streak-stats.demolab.com?user=yeasin4745&theme=radical&date_format=j%20M%5B%20Y%5D)  
+
+---
+
+## 💻 Top Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeasin4745&layout=compact&theme=radical)  
+
+---
+
+## 🌟 Quick Stats  
+![GitHub followers](https://img.shields.io/github/followers/yeasin4745?label=Followers&style=social)  
+![GitHub stars](https://img.shields.io/github/stars/yeasin4745?label=Stars&style=social)  
+
+
 ## 🔗 Connect With Me  
 
 <p align="center">
