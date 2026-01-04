@@ -1,4 +1,11 @@
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=yeasin4745&theme=ocean&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
 
+
+
+
+<!--
 <h1 align="center">👨‍💻 Welcome to my GitHub!</h1>
 
 <p align="center">
@@ -21,10 +28,9 @@
 ## ⚙️ Languages & Tools  
 
 <p align="center">
-  <!-- skillicons -->
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,github,mongodb,tensorflow,python,firebase,npm&theme=dark" />
 
-  <!-- cool animation line -->
+
   <br/><br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=💻+Frontend+:+HTML%2C+CSS%2C+JS%2C+React%2C+Tailwind;⚡+Backend+:+Node.js%2C+Express%2C+MongoDB%2C+Firebase;🤖+AI%2FML+:+TensorFlow%2C+Python;📦+Other+Tools+:+GitHub%2C+NPM" />
 </p>
@@ -73,3 +79,4 @@
 <p align="center">
   <em>“Learning is part of my life. Coding is how I express myself.” — Yeasin</em>
 </p>
+-->
