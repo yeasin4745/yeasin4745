@@ -2,82 +2,159 @@
 <p align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=yeasin4745&theme=ocean&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </p>
-
-
-
-
 -->
-<h1 align="center">👨‍💻 Welcome to my GitHub!</h1>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=06F7C2&center=true&vCenter=true&width=600&lines=👨‍💻+Welcome+to+My+GitHub!;I'm+Yeasin+—+Tech+Innovator;Aspiring+Full+Stack+Developer;Building+the+Future+with+Code;AI+%26+ML+Enthusiast" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  I'm <strong>Yeasin</strong> — a passionate learner, future developer, and tech enthusiast.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🌍+Visionary+Developer+%7C+Problem+Solver;🚀+Passionate+about+AI+%26+Machine+Learning;💡+Building+Intelligent+Communication+Systems;🎯+Full+Stack+Web+Development+Enthusiast;📚+Continuous+Learner+%7C+Tech+Innovator" alt="Subtitle Typing SVG" />
 </p>
 
-<p aling="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=06F7C2&background=00000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Yeasin;Aspiring+Full+Stack+Developer;Passionate+about+Problem+Solving;Exploring+Machine+Learning;Learning+Something+New+Everyday" alt="Typing SVG" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yeasin4745&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/yeasin4745?label=Followers&style=social" alt="GitHub Followers" />
 </p>
+
+---
+
+<div align="center">
 
 ## 🧠 About Me
-- 🎓 I’m a **student**, learning tech step by step.
-- 🧩 I love problem solving, logic building, and making cool stuff with code.
-- 🤖 Currently learning about **Machine Learning**.
-- 🧗 I believe in **continuous growth** and embracing challenges.
-- 🚀 One step at a time, I’m getting closer to becoming a **full stack developer**.
 
+I'm **Yeasin** — a dedicated student, innovator, and future tech creator. I believe that positive change in the world is possible through technology. In today's era, technology plays an essential role in almost every aspect of life—without it, progress is impossible.
 
+🎓 Currently learning **Full-Stack Web Development** and mastering modern web technologies
 
-## ⚙️ Languages & Tools  
+🤖 Deeply interested in **AI, Machine Learning, and Quantum Computing**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,github,mongodb,tensorflow,python,firebase,npm&theme=dark" />
+💡 Building intelligent, relationship-based, and automated communication systems
 
+🎯 Long-term goal: Create a **worldwide communication platform** using advanced technologies
 
-  <br/><br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=💻+Frontend+:+HTML%2C+CSS%2C+JS%2C+React%2C+Tailwind;⚡+Backend+:+Node.js%2C+Express%2C+MongoDB%2C+Firebase;🤖+AI%2FML+:+TensorFlow%2C+Python;📦+Other+Tools+:+GitHub%2C+NPM" />
+🧗 Belief: Technology amplifies human potential exponentially
+
+</div>
+
+---
+
+<div align="center">
+
+## 💻 Skills & Technologies
+
+### Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
+### Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
 
-## 📊 GitHub Stats  
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=yeasin4745&show_icons=true&theme=radical)  
+### AI & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ML" />
+</p>
+
+### Tools & Platform
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+</p>
+
+</div>
 
 ---
 
-## 🔥 Streak Stats  
-![GitHub Streak](https://streak-stats.demolab.com?user=yeasin4745&theme=radical&date_format=j%20M%5B%20Y%5D)  
+<div align="center">
+
+## 📊 GitHub Statistics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yeasin4745&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yeasin4745&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeasin4745&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+
+</div>
 
 ---
 
-## 💻 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeasin4745&layout=compact&theme=radical)  
+<div align="center">
+
+## 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yeasin4745&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
 
 ---
 
-## 🌟 Quick Stats  
-![GitHub followers](https://img.shields.io/github/followers/yeasin4745?label=Followers&style=social)  
-![GitHub stars](https://img.shields.io/github/stars/yeasin4745?label=Stars&style=social)  
+<div align="center">
 
+## 🎯 Current Focus
 
-## 🔗 Connect With Me  
+```javascript
+const yeasin = {
+  currentlyLearning: ["Advanced Node.js", "System Design", "Machine Learning"],
+  buildingProjects: ["Communication Platforms", "Full-Stack Applications"],
+  goals2026: ["Master Full-Stack Development", "Contribute to Open Source"],
+  vision: "Create technology that connects billions worldwide",
+  quote: "AI is not just technology—it's a multiplier for human capability"
+};
+```
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yeasin4745/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/yeasin4745" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/yeasinali4745/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://twitter.com/yeasin4745" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</div>
+
+---
+
+<div align="center">
+
+## 📫 Connect With Me
+
+<a href="https://github.com/yeasin4745">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-  <a href="https://facebook.com/yeasin4745" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<a href="mailto:yeasinali4745@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-</p>
+<a href="https://linkedin.com/in/yeasin4745">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://twitter.com/yeasin4745">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+
+### 💭 My Philosophy
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=Technology+is+the+bridge+between+dreams+and+reality;One+step+at+a+time%2C+building+the+future;Continuous+learning+is+the+key+to+innovation;AI+amplifies+human+potential+infinitely" alt="Philosophy" />
+
+**🌟 Let's build the future together!**
+
+</div>
+
+---
 
 <p align="center">
-  <em>“Learning is part of my life. Coding is how I express myself.” — Yeasin</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="Footer Wave" />
 </p>
--->
