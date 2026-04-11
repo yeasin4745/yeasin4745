@@ -12,32 +12,43 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🌍+Visionary+Developer+%7C+Problem+Solver;🚀+Passionate+about+AI+%26+Machine+Learning;💡+Building+Intelligent+Communication+Systems;🎯+Full+Stack+Web+Development+Enthusiast;📚+Continuous+Learner+%7C+Tech+Innovator" alt="Subtitle Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yeasin4745&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yeasin4745?label=Followers&style=social" alt="GitHub Followers" />
-</p>
 
----
 
-<div >
 
-## 🧠 About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
 
-<p aling="center">
-I'm **Yeasin** — a dedicated student, innovator, and future tech creator. I believe that positive change in the world is possible through technology. In today's era, technology plays an essential role in almost every aspect of life—without it, progress is impossible.
-</p>
+<img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation" />
 
-🎓 Currently learning **Full-Stack Web Development** and mastering modern web technologies
+```yaml
+name:        Yeasin
+location:    Bangladesh
+role:        Aspiring Full-Stack Developer
+education:   Student
 
-🤖 Deeply interested in **AI, Machine Learning**
+focus:
+  - Full-Stack Web Development
+  - Problem Solving & Logical Thinking
+  - Real-World Project Building
 
-🎯 Long-term goal: Create a **worldwide communication platform** using advanced technologies
+interests:
+  - Machine Learning
+  - Web + ML Integration
+  - Intelligent Systems
+  - Modern Web Technologies
 
-🧗 Belief: Technology amplifies human potential exponentially
+currently_learning:
+  - Node.js (Advanced Backend)
+  - React.js & Tailwind CSS
+  - TensorFlow.js
+  - Machine Learning Concepts
 
-</div>
+long_term_goals:
+  - Build a Worldwide Communication Platform
+  - Create AI-powered Real-Time Systems
+  - Develop Impactful Tech Solutions
 
----
+belief: "Technology amplifies human potential exponentially"
+```
 
 <div align="center">
 
