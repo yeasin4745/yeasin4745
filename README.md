@@ -104,46 +104,45 @@ belief: "Technology amplifies human potential exponentially"
 
 
 <div align="center">
+  📊 GitHub Statistics
 
-## 📊 GitHub Statistics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yeasin4745&show_icons=true&theme=radical&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yeasin4745&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeasin4745&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
-
----
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yeasin4745&layout=compact&theme=radical&hide_border=true" />
+</p>
+ </div>
 
 <div align="center">
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yeasin4745&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yeasin4745&theme=react-dark&hide_border=true&area=true" />
 
-</div>
-
----
-
-<div align="center">
-
-## 🎯 Current Focus
-
-```javascript
-const yeasin = {
-  currentlyLearning: ["Advanced technology", "System Design", "Machine Learning"],
-  buildingProjects: ["Communication Platforms", "Full-Stack Applications","AI power chatbot"],
-  goals2026: ["Master Full-Stack Development", "Contribute to Open Source"],
-  vision: "Create technology that connects billions worldwide",
-  quote: "AI is not just technology—it's a multiplier for human capability"
-};
-```
-
-</div>
 
 ---
 
 <div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Balram-1/Balram-1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Balram-1/Balram-1/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Balram-1/Balram-1/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<div align="center">
+
+
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeasin4745&theme=radical" />
+</p>
+
 
 ## 📫 Connect With Me
 
@@ -156,7 +155,9 @@ const yeasin = {
 
 </div>
 
----
+
+
+
 
 <div align="center">
 
