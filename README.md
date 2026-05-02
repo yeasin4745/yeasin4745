@@ -26,11 +26,11 @@
 <tr>
 <td width="60%">
 
-**🚀 Full Stack Developer** from Bangladesh  
-**🎯 Focus:** Building scalable web applications  
-**🌱 Currently Learning:** Advanced Node.js & TensorFlow.js  
-**💡 Passionate about:** AI/ML Integration in Web  
-**🔭 Working on:** Worldwide Communication Platform  
+ - 🚀 Aspiring Full Stack Developer from Bangladesh  
+- 🎯 Building scalable and real-world web applications  
+- 🌱 Learning advanced backend systems & Machine Learning  
+- 💡 Interested in combining web development with machine learning  
+- 🔭 Working toward a global communication platform vision
 
 </td>
 <td width="40%" align="center">
@@ -56,7 +56,7 @@
 <summary><b>⚙️ Backend & Database</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=4" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman,docker&perline=4" />
 </p>
 </details>
 
@@ -73,7 +73,7 @@
 <summary><b>🛠️ Tools & Platforms</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,netlify&perline=6" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,netlify,linux,bash&perline=4" />
 </p>
 </details>
 
