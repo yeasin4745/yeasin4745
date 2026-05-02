@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=YEASIN&textBg=false&fontColor=fff&fontSize=70&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast&descSize=20&descAlignY=65&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=꧁༒Yeasin༒꧂&textBg=false&fontColor=fff&fontSize=70&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast&descSize=20&descAlignY=65&animation=twinkling" />
 </p>
 
 <!-- Animated Typing -->
@@ -64,8 +64,8 @@
 <summary><b>🤖 AI & Machine Learning</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow&perline=4" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,numpy,pandas,matplotlib,jupyter&perline=4" />
+  
 </p>
 </details>
 
@@ -93,7 +93,7 @@
 <table width="100%">
 <tr>
 <td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeasin4745&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" width="100%" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeasin4745&theme=tokyonight" width="100%" />
 </td>
 <td width="50%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeasin4745&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" width="100%" alt="Streak" />
@@ -101,7 +101,7 @@
 </tr>
 <tr>
 <td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeasin4745&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" width="100%" alt="Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yeasin4745&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
 </td>
 <td width="50%">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeasin4745&theme=react-dark&hide_border=true&area=true&color=00d9ff&line=00d9ff&point=ffffff" width="100%" alt="Activity" />
@@ -134,7 +134,7 @@
   <a href="https://twitter.com/yeasin4745" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2" alt="Twitter" />
   </a>
-  <a href="mailto:yeasinahmed4745@gmail.com">
+  <a href="mailto:yeasinali4745@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" alt="Gmail" />
   </a>
 </p>
