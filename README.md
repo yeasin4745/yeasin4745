@@ -24,13 +24,15 @@
 
 <table align="center">
 <tr>
+
 <td width="60%">
 
- - 🚀 Aspiring Full Stack Developer from Bangladesh  
-- 🎯 Building scalable and real-world web applications  
-- 🌱 Learning advanced backend systems & Machine Learning  
-- 💡 Interested in combining web development with machine learning  
-- 🔭 Working toward a global communication platform vision
+- 🛡️ Aspiring Cybersecurity & Network Engineering Specialist
+- 🌐 Learning Computer Networking, Infrastructure & Network Security
+- 💻 Building secure and scalable backend systems
+- 🤖 Exploring AI, Machine Learning & LLM-powered applications
+- 🚀 Developing real-world projects with Node.js and modern technologies
+- 🔭 Focused on building secure, intelligent & scalable digital systems
 
 </td>
 <td width="40%" align="center">
