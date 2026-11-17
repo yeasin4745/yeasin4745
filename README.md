@@ -46,7 +46,6 @@ Learning, documenting, and experimenting through public repositories.
 
 ## Connect
 
-- [GitHub Profile](https://github.com/yeasin4745)
 - [LinkedIn](https://linkedin.com/in/yeasin4745)
 - [Join the Technical Community on Discord](https://discord.gg/dqe6PdPw)
 
